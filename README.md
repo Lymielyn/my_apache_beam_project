@@ -8,7 +8,7 @@ A repository to store all the materials of a Apache Beam pipeline
 
 ## Installation
 
-If you are intending to run this in using a Docker container, please ensure that you have Docker Desktop installed in your local machine. For more information on how to install Docker, please `[click this link](https://www.docker.com/products/docker-desktop/)`
+If you are intending to run this in using a Docker container, please ensure that you have Docker Desktop installed in your local machine. For more information on how to install Docker, please [click this link](https://www.docker.com/products/docker-desktop/)
 
 Windows users: please setup WSL and a local Ubuntu Virtual machine following `[the instructions here](https://documentation.ubuntu.com/wsl/en/latest/#1-overview)`. Install the above prerequisites on your ubuntu terminal; if you have trouble installing docker, follow `[the steps here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04#step-1-installing-docker)` (only Step 1 is necessary). Please install the make command with sudo apt install make -y (if its not already present).
 
